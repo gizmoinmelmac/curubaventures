@@ -1,8 +1,0 @@
-[22-Jan-2023 07:59:25 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function create_function() in /home3/andresfa/public_html/curubaventures/mailgunapi/composer/autoload_static_new.php:30
-Stack trace:
-#0 {main}
-  thrown in /home3/andresfa/public_html/curubaventures/mailgunapi/composer/autoload_static_new.php on line 30
-[22-Jan-2023 07:59:26 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function create_function() in /home3/andresfa/public_html/curubaventures/mailgunapi/composer/autoload_psr4_prevv1.php:28
-Stack trace:
-#0 {main}
-  thrown in /home3/andresfa/public_html/curubaventures/mailgunapi/composer/autoload_psr4_prevv1.php on line 28

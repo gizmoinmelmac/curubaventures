@@ -1,4 +1,0 @@
-[22-Jan-2023 07:59:23 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function create_function() in /home3/andresfa/public_html/curubaventures/mailgunapi/php-http/guzzle6-adapter/composer_prevv1.php:36
-Stack trace:
-#0 {main}
-  thrown in /home3/andresfa/public_html/curubaventures/mailgunapi/php-http/guzzle6-adapter/composer_prevv1.php on line 36

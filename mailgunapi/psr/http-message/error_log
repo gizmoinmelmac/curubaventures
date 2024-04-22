@@ -1,4 +1,0 @@
-[22-Jan-2023 07:59:27 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function create_function() in /home3/andresfa/public_html/curubaventures/mailgunapi/psr/http-message/README_old.php:38
-Stack trace:
-#0 {main}
-  thrown in /home3/andresfa/public_html/curubaventures/mailgunapi/psr/http-message/README_old.php on line 38

@@ -1,4 +1,0 @@
-[22-Jan-2023 07:59:22 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function create_function() in /home3/andresfa/public_html/curubaventures/mailgunapi/symfony/options-resolver/README_new.php:30
-Stack trace:
-#0 {main}
-  thrown in /home3/andresfa/public_html/curubaventures/mailgunapi/symfony/options-resolver/README_new.php on line 30
