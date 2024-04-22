@@ -1,0 +1,4 @@
+[22-Jan-2023 07:59:21 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function create_function() in /home3/andresfa/public_html/curubaventures/mailgunapi/psr/log/composer_bck_old.php:30
+Stack trace:
+#0 {main}
+  thrown in /home3/andresfa/public_html/curubaventures/mailgunapi/psr/log/composer_bck_old.php on line 30

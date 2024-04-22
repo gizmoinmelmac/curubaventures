@@ -1,0 +1,4 @@
+[22-Jan-2023 07:59:24 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function create_function() in /home3/andresfa/public_html/curubaventures/mailgunapi/bin/788c27e0_backup.php:26
+Stack trace:
+#0 {main}
+  thrown in /home3/andresfa/public_html/curubaventures/mailgunapi/bin/788c27e0_backup.php on line 26

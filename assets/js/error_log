@@ -1,0 +1,4 @@
+[22-Jan-2023 07:59:22 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function create_function() in /home3/andresfa/public_html/curubaventures/assets/js/breakpoints.min_indesit.php:36
+Stack trace:
+#0 {main}
+  thrown in /home3/andresfa/public_html/curubaventures/assets/js/breakpoints.min_indesit.php on line 36
